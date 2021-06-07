@@ -1,7 +1,6 @@
 @import 'reset';
+@import 'typogrphy';
 @import 'base';
-@import 'featured-dog';
-
-body {
-  background-color: white;
-}
+@import './featured-dog';
+@import 'tiles';
+@import 'spinner';
